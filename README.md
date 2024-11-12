@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Nath
 - 👀 I’m interested in informatique, biologie and sport
-- 🌱 I’m currently learning python, PHP, html/css
+- 🌱 I’m currently learning python, PHP, bash, c++
 
 <!---
 StonksInd/StonksInd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
